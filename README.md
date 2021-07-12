@@ -27,7 +27,7 @@ A Discord Tickets Bot With Buttons Just Like Ticket Tool!
 
 # License
 > This Project is Licensed Under MIT License 
-> Read [Here]() For More Information
+> Read [Here](https://github.com/apidev234/ButtonTickets/blob/main/LICENSE) For More Information
 - Don't Be a Kid Give Credits
 
 #### Credits
