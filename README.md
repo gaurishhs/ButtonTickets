@@ -24,3 +24,11 @@ A Discord Tickets Bot With Buttons Just Like Ticket Tool!
 ## How To Host
 - Its Easy To Host This Bot Do `npm i ` in Console 
 - Once Dependencies Are Installed Run `npm start` in Console To Start The Bot
+
+# License
+> This Project is Licensed Under MIT License 
+> Read [Here]() For More Information
+- Don't Be a Kid Give Credits
+
+#### Credits
+- Made by Shinchan#2196
