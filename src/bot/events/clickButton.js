@@ -109,9 +109,12 @@ module.exports = async function(client, button) {
                         color: 0xFF0000
                     }
                 });
-                setTimeout(() => {
+                async function DelChannel() {
+                        setTimeout(() => {
                     button.channel.delete();
                 }, 1000 * 4.3);
+                }
+                    await DelChannel()
             } else if (button.id == "reopenTicket") {
                 button.channel.send({
                     embed: {
@@ -144,9 +147,12 @@ module.exports = async function(client, button) {
                         color: 0xFF0000
                     }
                 });
-                setTimeout(() => {
+                async function DelChannel() {
+                        setTimeout(() => {
                     button.channel.delete();
                 }, 1000 * 4.3);
+                }
+                    await DelChannel()
             } else if (button.id == 'closeTicketFalse') {
                 var msg = require('quick.db').fetch(`DeleteMessage_${button.channel.id}`);
                 button.channel.messages.fetch(msg).then(message => message.delete()).catch(err => { return });
