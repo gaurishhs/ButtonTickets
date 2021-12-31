@@ -31,4 +31,4 @@ A Discord Tickets Bot With Buttons Just Like Ticket Tool!
 - Don't Be a Kid Give Credits
 
 #### Credits
-- Made by Shinchan#2196
+- Made by Shinchan#0196
