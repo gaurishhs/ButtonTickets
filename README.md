@@ -1,5 +1,6 @@
 # ButtonTickets
 A Discord Tickets Bot With Buttons Just Like Ticket Tool!
+- If you like this project, Please star the repository, Really helps me a lot + gives me motivation to code more such things.
 
 > Update: Thanks for the support, I do not plan to update this as i'm working on other tons of projects.
 
