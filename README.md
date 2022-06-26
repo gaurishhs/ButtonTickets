@@ -18,10 +18,8 @@ A Discord Tickets Bot With Buttons Just Like Ticket Tool!
 
 ## Self-Hosting 
 - You're Free To Host This Bot Till You Give Credits
-> Q. Can i Run This Bot On Repl/Glitch?
-> A. Yes, You Can Freely Host This Bot Anywhere just make sure to keep the token safe.
 
-[![Use on Repl.it](https://repl.it/badge/github/ShinchanPlayZ/AdvancedWelcomer)](https://replit.com/github/apidev234/ButtonTickets)
+[![Deploy on Repl.it](https://repl.it/badge/github/ShinchanPlayZ/AdvancedWelcomer)](https://replit.com/github/apidev234/ButtonTickets)
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/apidev234/ButtonTickets)
 ## How To Host
 - Install dependencies
