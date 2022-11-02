@@ -1,9 +1,9 @@
 const { MessageButton, MessageActionRow } = require('discord-buttons');
 
 module.exports = {
-    name: "close",
+    name: "rename",
     cooldown: 5,
-    aliases: ["end"],
+    aliases: ["change-name"],
 
     run: async function(client, message, args) {
         try {
